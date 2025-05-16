@@ -1,0 +1,5 @@
+name = input('put your username')
+age = input('how many years old you have')
+
+if age >= 15 :
+    print('you can enter to the game')
